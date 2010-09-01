@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Today</title>
+
+    <style type="text/css" media="screen">
+      body {
+        font-family: Verdana, Arial, sans-serif;
+      }
+
+      #weather .temp {
+        margin-left: 1em;
+        font-size: 3em;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1><%= today.strftime("%B %d %Y") %></h1>
+
+    <div id="weather">
+      <p>Current temperature:</p>
+      <span class="temp"><%= weather.temp %> F</span>
+      <span class="temp"><%= weather.celsius %> C</span>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+		<rss version="2.0" xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+			<channel>
+		
+<title>Yahoo! Weather - South San Francisco, CA</title>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/South_San_Francisco__CA/*http://weather.yahoo.com/forecast/USCA1085_f.html</link>
+<description>Yahoo! Weather for South San Francisco, CA</description>
+<language>en-us</language>
+<lastBuildDate>Sun, 22 Aug 2010 8:56 pm PDT</lastBuildDate>
+<ttl>60</ttl>
+<yweather:location city="South San Francisco" region="CA"   country="United States"/>
+<yweather:units temperature="F" distance="mi" pressure="in" speed="mph"/>
+<yweather:wind chill="61"   direction="290"   speed="16" />
+<yweather:atmosphere humidity="70"  visibility="10"  pressure="29.99"  rising="1" />
+<yweather:astronomy sunrise="6:31 am"   sunset="7:53 pm"/>
+<image>
+<title>Yahoo! Weather</title>
+<width>142</width>
+<height>18</height>
+<link>http://weather.yahoo.com</link>
+<url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+</image>
+<item>
+<title>Conditions for South San Francisco, CA at 8:56 pm PDT</title>
+<geo:lat>37.66</geo:lat>
+<geo:long>-122.41</geo:long>
+<link>http://us.rd.yahoo.com/dailynews/rss/weather/South_San_Francisco__CA/*http://weather.yahoo.com/forecast/USCA1085_f.html</link>
+<pubDate>Sun, 22 Aug 2010 8:56 pm PDT</pubDate>
+<yweather:condition  text="Fair"  code="33"  temp="61"  date="Sun, 22 Aug 2010 8:56 pm PDT" />
+<description><![CDATA[
+<img src="http://l.yimg.com/a/i/us/we/52/33.gif"/><br />
+<b>Current Conditions:</b><br />
+Fair, 61 F<BR />
+<BR /><b>Forecast:</b><BR />
+Sun - Mostly Clear. High: 67 Low: 58<br />
+Mon - Sunny. High: 81 Low: 63<br />
+<br />
+<a href="http://us.rd.yahoo.com/dailynews/rss/weather/South_San_Francisco__CA/*http://weather.yahoo.com/forecast/USCA1085_f.html">Full Forecast at Yahoo! Weather</a><BR/><BR/>
+(provided by <a href="http://www.weather.com" >The Weather Channel</a>)<br/>
+]]></description>
+<yweather:forecast day="Sun" date="22 Aug 2010" low="58" high="67" text="Mostly Clear" code="33" />
+<yweather:forecast day="Mon" date="23 Aug 2010" low="63" high="81" text="Sunny" code="32" />
+<guid isPermaLink="false">USCA1085_2010_08_22_20_56_PDT</guid>
+</item>
+</channel>
+</rss>
+<!-- api2.weather.sp2.yahoo.com uncompressed/chunked Sun Aug 22 21:54:36 PDT 2010 -->
